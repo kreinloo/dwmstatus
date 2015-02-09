@@ -4,7 +4,7 @@
 
 */
 
-/* which interface should we monitor*/
+/* which interface should we monitor */
 #define IF_LINK "wlan0"
 
 /* update interval in seconds */
